@@ -50,7 +50,8 @@
   list-style: none;
 }
 
-input,button{
+input,
+button {
   /*reset default styles - we can use tag-name!!!!!!!*/
   /*Не используйте теговые селекторы (за исключением намеренного сброса дефолтных стилей)!!!!!!!*/
   outline: none;
